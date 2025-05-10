@@ -1,7 +1,7 @@
 import csv
 
 archivo_csv = "preg.csv"
-
+print("hola")
 def buscar_respuesta(pregunta_usuario):
     with open(archivo_csv, newline='', encoding='utf-8') as archivo:
         lector = csv.reader(archivo, delimiter=';')
