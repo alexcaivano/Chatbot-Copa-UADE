@@ -1,5 +1,6 @@
-
-¿Cómo me doy de alta en el monotributo?;Ingresá a afip.gob.ar, accedé con tu clave fiscal, seleccioná 'Monotributo' y elegí 'Adherirse al Monotributo'. Seguí los pasos del sistema
+Pregunta;Respuesta
+¿Qué es el monotributo?;Es un régimen simplificado para pequeños contribuyentes. Combina el pago del impuesto, la jubilación y la obra social en una sola cuota mensual.
+¿Cómo me doy de alta en el monotributo?;Ingresá a afip.gob.ar, accedé con tu clave fiscal, seleccioná “Monotributo” y elegí “Adherirse al Monotributo”. Seguí los pasos del sistema.
 ¿Qué necesito para inscribirme en el monotributo?;Tu CUIT, clave fiscal nivel 2 o superior, y declarar una actividad económica.
 ¿Cuánto tengo que pagar por el monotributo?;Depende de tu categoría (A hasta K). El monto varía según tus ingresos y actividad.
 ¿Qué actividades puedo hacer siendo monotributista?;Casi cualquier actividad comercial, profesional o de servicios. Hay algunas excluidas, como ser socio de una SA o SRL.
@@ -7,7 +8,7 @@
 ¿Cómo se paga el monotributo?;Podés pagar con débito automático, por homebanking o con billeteras virtuales como Mercado Pago o Ualá.
 ¿Puedo facturar sin estar inscripto en AFIP?;No. Para emitir facturas legales necesitás estar inscripto en AFIP como monotributista o responsable inscripto.
 ¿Qué tipo de factura emite un monotributista?;Generalmente factura tipo C, que es para consumidores finales o no inscriptos en IVA.
-¿Cómo genero una factura electrónica?;Ingresá a 'Comprobantes en línea' en la web de AFIP, completá los datos de tu cliente y elegí el tipo de factura.
+¿Cómo genero una factura electrónica?;Ingresá a “Comprobantes en línea” en la web de AFIP, completá los datos de tu cliente y elegí el tipo de factura.
 ¿Necesito un controlador fiscal?;No. Con el sistema de facturación electrónica de AFIP alcanza para la mayoría de los casos.
 ¿Qué pasa si me atraso con el pago del monotributo?;Vas a acumular intereses. Si pasa mucho tiempo, podés quedar excluido del régimen.
 ¿Qué pasa si supero el límite de facturación del monotributo?;Tenés que pasarte al régimen general, donde se paga IVA, ganancias y aportes por separado.
@@ -26,5 +27,8 @@
 ¿Qué pasa si no me inscribo en AFIP y vendo igual?;Estás en situación informal. Si te detectan, pueden aplicarte multas y hacerte pagar retroactivamente.
 ¿Qué pasa si vendo al exterior?;Podés hacerlo, pero hay que emitir una factura E. No todos los monotributistas están habilitados, depende de tu actividad.
 ¿Puedo tener empleados siendo monotributista?;Sí, pero hay límites. Podés registrar hasta tres empleados.
-¿Qué es la clave fiscal y cómo se obtiene?;Es una clave personal para operar en la web de AFIP. Se tramita en afip.gob.ar o con la app 'Mi AFIP'.
-¿Cómo contacto a AFIP si tengo dudas?;Podés hacerlo por la web, la app 'Mi AFIP', redes sociales oficiales o llamar al 0800-999-2347.
+¿Qué es la clave fiscal y cómo se obtiene?;Es una clave personal para operar en la web de AFIP. Se tramita en afip.gob.ar o con la app “Mi AFIP”.
+¿Cómo contacto a AFIP si tengo dudas?;Podés hacerlo por la web, la app “Mi AFIP”, redes sociales oficiales o llamar al 0800-999-2347.
+holaaa;respuesta a mi pregunta
+tengo dudas;respuesta
+no se que mas preguntar;aca va la respuesta
