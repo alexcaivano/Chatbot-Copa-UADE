@@ -1,7 +1,7 @@
 import csv
 
 archivo_csv = "preg.csv"
-print("hola")
+
 def buscar_respuesta(pregunta_usuario):
     with open(archivo_csv, newline='', encoding='utf-8') as archivo:
         lector = csv.reader(archivo, delimiter=';')
@@ -29,8 +29,13 @@ while entrada.lower() != "salir":
             print("Respuesta:", respuesta)
         else:
             print("Respuesta: No conozco esa pregunta.")
-            nueva_respuesta = input("Por favor, ingrese la respuesta para guardarla: ").strip()
-            agregar_pregunta_respuesta(entrada, nueva_respuesta)
-            print("¡Pregunta y respuesta guardadas!")
+            print("Desea ingresar una respuesta a su pregunta?")
+            resp=input("Ingrese si o no: ")
+            if resp.lower()=="si":
+                nueva_respuesta = input("Por favor, ingrese la respuesta para guardarla: ").strip()
+                agregar_pregunta_respuesta(entrada, nueva_respuesta)
+                print("¡Pregunta y respuesta guardadas!")
+
+    
 
     
