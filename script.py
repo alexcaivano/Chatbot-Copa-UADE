@@ -29,12 +29,18 @@ while entrada.lower() != "salir":
             print("Respuesta:", respuesta)
         else:
             print("Respuesta: No conozco esa pregunta.")
-            print("Desea ingresar una respuesta a su pregunta?")
+            print("\nDesea ingresar una respuesta a su pregunta?")
             resp=input("Ingrese si o no: ")
-            if resp.lower()=="si":
-                nueva_respuesta = input("Por favor, ingrese la respuesta para guardarla: ").strip()
+            
+            if resp.lower() != "si" and resp.lower() != "no":
+                while resp.lower() != "si" and resp.lower() != "no":
+                    resp=input("\nIngrese una opcion valida: ")
+                    
+            if resp.lower() == "si":
+                nueva_respuesta = input("\nPor favor, ingrese la respuesta para guardarla: ").strip()
                 agregar_pregunta_respuesta(entrada, nueva_respuesta)
                 print("¡Pregunta y respuesta guardadas!")
+            
 
     
 
